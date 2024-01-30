@@ -1,0 +1,15 @@
+c:\CSharp\Bootcamp\EF\WorkingWithEFCore\Trial\bin\Debug\net7.0\Trial.exe
+c:\CSharp\Bootcamp\EF\WorkingWithEFCore\Trial\bin\Debug\net7.0\Trial.deps.json
+c:\CSharp\Bootcamp\EF\WorkingWithEFCore\Trial\bin\Debug\net7.0\Trial.runtimeconfig.json
+c:\CSharp\Bootcamp\EF\WorkingWithEFCore\Trial\bin\Debug\net7.0\Trial.dll
+c:\CSharp\Bootcamp\EF\WorkingWithEFCore\Trial\bin\Debug\net7.0\Trial.pdb
+c:\CSharp\Bootcamp\EF\WorkingWithEFCore\Trial\obj\Debug\net7.0\Trial.csproj.AssemblyReference.cache
+c:\CSharp\Bootcamp\EF\WorkingWithEFCore\Trial\obj\Debug\net7.0\Trial.GeneratedMSBuildEditorConfig.editorconfig
+c:\CSharp\Bootcamp\EF\WorkingWithEFCore\Trial\obj\Debug\net7.0\Trial.AssemblyInfoInputs.cache
+c:\CSharp\Bootcamp\EF\WorkingWithEFCore\Trial\obj\Debug\net7.0\Trial.AssemblyInfo.cs
+c:\CSharp\Bootcamp\EF\WorkingWithEFCore\Trial\obj\Debug\net7.0\Trial.csproj.CoreCompileInputs.cache
+c:\CSharp\Bootcamp\EF\WorkingWithEFCore\Trial\obj\Debug\net7.0\Trial.dll
+c:\CSharp\Bootcamp\EF\WorkingWithEFCore\Trial\obj\Debug\net7.0\refint\Trial.dll
+c:\CSharp\Bootcamp\EF\WorkingWithEFCore\Trial\obj\Debug\net7.0\Trial.pdb
+c:\CSharp\Bootcamp\EF\WorkingWithEFCore\Trial\obj\Debug\net7.0\Trial.genruntimeconfig.cache
+c:\CSharp\Bootcamp\EF\WorkingWithEFCore\Trial\obj\Debug\net7.0\ref\Trial.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KsJVhu2mXsqrRHMKGfsxd9Z0elOaaUE2FU0e603rnNd1/wreqjPGUXmWjRSYbaqJz4x5bMNsS11VzkJz1fJvgQ==",
+  "dgSpecHash": "2Ifk+HroK+pnQTs84pQ0cqf+zYOR+WVAGLOLoyMCRasbAGR1D84pSUKSUGjjOZ7J1nsThkNI1PcxYdiFTAykKQ==",
   "success": true,
-  "projectFilePath": "c:\\CSharp\\Bootcamp\\EF\\WorkingWithEFCore\\EFCore\\EFCore.csproj",
+  "projectFilePath": "C:\\CSharp\\Bootcamp\\EF\\WorkingWithEFCore\\EFCore\\EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.4\\microsoft.data.sqlite.core.7.0.4.nupkg.sha512",
@@ -31,7 +31,11 @@
     "C:\\Users\\kinar\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\kinar\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }
