@@ -9,6 +9,7 @@ class Program
 		//Open connection to the Database
 		using (Northwind db = new())
 		{
+			
 			//Read
 			//Check Database connection is valid or not
 			Console.WriteLine(db.Database.CanConnect());
@@ -27,7 +28,10 @@ class Program
 				}
 			}
 			//For view Product that price is more than 20
-			var products = db.Products.Include(p => p.Supplier).Where(p => p.Cost > 20);
+			var products = db.Products
+			.Include(p => p.Supplier)
+			.Where(p => p.Cost > 20);
+			
 			foreach (var p in products)
 			{
 				Console.WriteLine(p.Supplier.SupplierId);
@@ -38,8 +42,9 @@ class Program
 			//Contains
 			//Find
 			//FirstOrDefault
-			//Select
+			//Select List<string> categoryNames = db.Categories.Select(c => c.CategoryName).ToList();
 			//OrderBy
+			//Distinct List<string> categoryNames = db.Categories.Select(c => c.CategoryName).Distinct();
 
 			//CUD : Create Update Delete
 			//Wajib ditutup dengan SaveChanges()
@@ -61,7 +66,9 @@ class Program
 			await db.SaveChangesAsync();
 
 			Category? result2 = await db.Categories
-			.FirstOrDefaultAsync(c => c.CategoryName.Contains("Mobil")); 
+			.FirstOrDefaultAsync(c => c.CategoryName
+			.Contains("Mobil")); 
+			
 			if(result2 is not null) 
 			{
 				result2.CategoryName = "Motor";
@@ -70,7 +77,9 @@ class Program
 			await db.SaveChangesAsync();
 
 			//Delete
-			IQueryable<Category> deletedCategory = db.Categories.Where(c => c.CategoryName == "Electronic");
+			IQueryable<Category> deletedCategory = db.Categories
+			.Where(c => c.CategoryName == "Electronic");
+			
 			db.Categories.RemoveRange(deletedCategory);
 			await db.SaveChangesAsync();
 		}

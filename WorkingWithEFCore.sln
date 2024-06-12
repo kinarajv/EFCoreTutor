@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreTutorial", "EFCoreTut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqliteTutorial", "MySqliteTutorial\MySqliteTutorial.csproj", "{DFF5477B-5791-4ED9-B3FD-6F33E7DBFB83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstDatabase", "CodeFirstDatabase\CodeFirstDatabase.csproj", "{DDE4141A-F642-493A-9FEA-46680AC95F6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,5 +36,9 @@ Global
 		{DFF5477B-5791-4ED9-B3FD-6F33E7DBFB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFF5477B-5791-4ED9-B3FD-6F33E7DBFB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFF5477B-5791-4ED9-B3FD-6F33E7DBFB83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE4141A-F642-493A-9FEA-46680AC95F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE4141A-F642-493A-9FEA-46680AC95F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE4141A-F642-493A-9FEA-46680AC95F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE4141A-F642-493A-9FEA-46680AC95F6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MySqliteTutorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67d48c65d410016defa0d9e87a8fcedb9f20f108")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MySqliteTutorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MySqliteTutorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

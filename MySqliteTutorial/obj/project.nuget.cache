@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DoMGCrXfw59DoLJpk6lT4hWtebqD60oxellGvef1AQizCCd3KuwSERF5FjOd/UbfV9c0NPQ9r2STvc+iUjQYOw==",
+  "dgSpecHash": "R1zSLZx1Z63vJuPrCKcaq1rZvudoEbHIWgYkeNLxDfTLBmkfrbT2Tbl6QTz9fcLw6NLH8O+HG3Wltue35vNuGw==",
   "success": true,
   "projectFilePath": "c:\\CSharp\\Bootcamp\\EF\\WorkingWithEFCore\\MySqliteTutorial\\MySqliteTutorial.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,8 @@
     "C:\\Users\\kinar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\npgsql\\8.0.0\\npgsql.8.0.0.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.0\\npgsql.entityframeworkcore.postgresql.8.0.0.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",

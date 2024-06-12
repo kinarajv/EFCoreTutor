@@ -53,3 +53,5 @@ c:\CSharp\Bootcamp\EF\WorkingWithEFCore\MySqliteTutorial\obj\Debug\net8.0\refint
 c:\CSharp\Bootcamp\EF\WorkingWithEFCore\MySqliteTutorial\obj\Debug\net8.0\MySqliteTutorial.pdb
 c:\CSharp\Bootcamp\EF\WorkingWithEFCore\MySqliteTutorial\obj\Debug\net8.0\MySqliteTutorial.genruntimeconfig.cache
 c:\CSharp\Bootcamp\EF\WorkingWithEFCore\MySqliteTutorial\obj\Debug\net8.0\ref\MySqliteTutorial.dll
+C:\CSharp\Bootcamp\EF\WorkingWithEFCore\MySqliteTutorial\bin\Debug\net8.0\Npgsql.dll
+C:\CSharp\Bootcamp\EF\WorkingWithEFCore\MySqliteTutorial\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

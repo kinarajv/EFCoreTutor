@@ -4,11 +4,11 @@ namespace EFDatabase;
 
 public class Northwind : DbContext
 {
-	public DbSet<Category>? Categories {get;set;}
-	public DbSet<Product>? Products {get;set;}
+	public DbSet<Category> Categories {get;set;}
+	public DbSet<Product> Products {get;set;}
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-		optionsBuilder.UseSqlite("Filename=./Northwind.db");
+		optionsBuilder.UseSqlite("FileName=./Northwind.db");
     }
 	protected override void OnModelCreating(ModelBuilder modelBuilder)
 	{
@@ -25,9 +25,6 @@ public class Northwind : DbContext
 			pro.Property(p => p.Cost).HasColumnType("money").HasColumnName("UnitPrice");
 			// pro.HasOne(p => p.Category).WithMany(cat => cat.Products);
 		});
-		modelBuilder.Entity<OrderDetail>(order =>
-		{
-			order.HasKey(o => new { o.OrderId, o.ProductId });
-		});
+
 	}
 }
