@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharp\\Bootcamp\\EF\\WorkingWithEFCore\\MySqliteTutorial\\MySqliteTutorial.csproj": {}
+    "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Template Batch\\WorkingWithEFCore\\MySqliteTutorial\\MySqliteTutorial.csproj": {}
   },
   "projects": {
-    "c:\\CSharp\\Bootcamp\\EF\\WorkingWithEFCore\\MySqliteTutorial\\MySqliteTutorial.csproj": {
+    "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Template Batch\\WorkingWithEFCore\\MySqliteTutorial\\MySqliteTutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharp\\Bootcamp\\EF\\WorkingWithEFCore\\MySqliteTutorial\\MySqliteTutorial.csproj",
+        "projectUniqueName": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Template Batch\\WorkingWithEFCore\\MySqliteTutorial\\MySqliteTutorial.csproj",
         "projectName": "MySqliteTutorial",
-        "projectPath": "c:\\CSharp\\Bootcamp\\EF\\WorkingWithEFCore\\MySqliteTutorial\\MySqliteTutorial.csproj",
+        "projectPath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Template Batch\\WorkingWithEFCore\\MySqliteTutorial\\MySqliteTutorial.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharp\\Bootcamp\\EF\\WorkingWithEFCore\\MySqliteTutorial\\obj\\",
+        "outputPath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Template Batch\\WorkingWithEFCore\\MySqliteTutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

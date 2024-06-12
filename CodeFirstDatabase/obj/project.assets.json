@@ -2606,11 +2606,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\CSharp\\Bootcamp\\EF\\WorkingWithEFCore\\CodeFirstDatabase\\CodeFirstDatabase.csproj",
+      "projectUniqueName": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Template Batch\\WorkingWithEFCore\\CodeFirstDatabase\\CodeFirstDatabase.csproj",
       "projectName": "CodeFirstDatabase",
-      "projectPath": "c:\\CSharp\\Bootcamp\\EF\\WorkingWithEFCore\\CodeFirstDatabase\\CodeFirstDatabase.csproj",
+      "projectPath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Template Batch\\WorkingWithEFCore\\CodeFirstDatabase\\CodeFirstDatabase.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\CSharp\\Bootcamp\\EF\\WorkingWithEFCore\\CodeFirstDatabase\\obj\\",
+      "outputPath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Template Batch\\WorkingWithEFCore\\CodeFirstDatabase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2679,7 +2679,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

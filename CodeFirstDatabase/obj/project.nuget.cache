@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wRo38G9AIZpxJlzXgnIov+tPD1EcSaxMZwS2E9udoykT2KqUkDHTijLbwIDyX4UJ44BKWtmAUX83M4p5u870nw==",
+  "dgSpecHash": "VRDo0GakVXPW2swVjZoslZz+XrZ8um10pcKccmYQhT4gcOlryb2ODsOQU/FJRgSDxP5DTiaWGdqBG43Mc2k2TQ==",
   "success": true,
-  "projectFilePath": "C:\\CSharp\\Bootcamp\\EF\\WorkingWithEFCore\\CodeFirstDatabase\\CodeFirstDatabase.csproj",
+  "projectFilePath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Template Batch\\WorkingWithEFCore\\CodeFirstDatabase\\CodeFirstDatabase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

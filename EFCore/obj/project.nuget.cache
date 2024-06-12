@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+HqKdMqVo55w6GexKgsQgpdOpw9MGxGkupKT8vwbDr97ycVX9bVrxopYa8pTcOfEWwgkqapujRtUko1WOvhUQA==",
+  "dgSpecHash": "6qDeuFTHGWOmhttAxAyHeyRJqzAOt4cxhWeChb8p2iPe8R8Fwk75NgMWk3Xk3j2rpKJrX5/oBYFucARmV/uOGQ==",
   "success": true,
-  "projectFilePath": "c:\\CSharp\\Bootcamp\\EF\\WorkingWithEFCore\\EFCore\\EFCore.csproj",
+  "projectFilePath": "C:\\CSharp\\Bootcamp\\EF\\WorkingWithEFCore\\EFCore\\EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\benchmarkdotnet\\0.13.12\\benchmarkdotnet.0.13.12.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\benchmarkdotnet.annotations\\0.13.12\\benchmarkdotnet.annotations.0.13.12.nupkg.sha512",
@@ -56,10 +56,10 @@
     "C:\\Users\\kinar\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }
